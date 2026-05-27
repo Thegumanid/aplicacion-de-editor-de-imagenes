@@ -1,2 +1,2 @@
-# aplicaci-n-de-edici-n-de-im-genes-simple
+# Editor simple
 La aplicación puede editar y guardar imágenes 
